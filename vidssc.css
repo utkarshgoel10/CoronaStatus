@@ -1,0 +1,49 @@
+nav
+{
+	border-radius: 20px;
+	font-family: "Luna";
+	background-color: black;
+}
+
+
+#brandimg
+{
+	width: 8%;
+	height: auto;
+}
+
+
+.active
+{
+	background-color: crimson;
+	border-radius: 20px;
+	color: white !important;
+}
+
+/*
+#cnt1
+{
+	
+	height: 100vh;
+}*/
+/*
+.in
+{
+	display: inline-flex;
+}
+
+.on
+{
+	display: inline-flex;
+}
+*/
+
+@media(max-width: 1009px)
+{
+	#frames
+	{
+		height: auto;
+		width: 85%;
+		padding-bottom: 20px;
+	}
+}
